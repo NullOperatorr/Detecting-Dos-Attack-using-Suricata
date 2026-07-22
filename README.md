@@ -11,6 +11,8 @@ Write a Suricata rule that detects future DoS attempts.
 
 Note: I will perform this task using Kali Linux Virtual Machine
 
+---
+
 **1- Get your Kali Linux Up-to-date:**
 
 ```bash
