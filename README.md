@@ -91,11 +91,11 @@ Then save.
 
 *Rule 1:*
 
-1- `(alert icmp any any -> $HOME_NET any): any ICMP into local network.
-2- `(itype:8) : means Echo requests.
-3- `(flow:to_server): means going to server from a client.
-4- `(threshold: type limit, track by_src, count 100, seconds 10): set a limit to number of messages received to alert.
-5- `(classtype:attempted-dos): goes into this category.
+1- (alert icmp any any -> $HOME_NET any): any ICMP into local network.  
+2- (itype:8) : means Echo requests.  
+3- (flow:to_server): means going to server from a client.  
+4- (threshold: type limit, track by_src, count 100, seconds 10): set a limit to number of messages received to alert.  
+5- (classtype:attempted-dos): goes into this category.  
 
 *Rule 2:*
 
