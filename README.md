@@ -63,7 +63,7 @@ sudo suricata-update
 <img width="640" height="544" alt="1_gzMzWgBuL4CAja7gBMyuFw" src="https://github.com/user-attachments/assets/5bd02805-e266-438d-a950-2fde2cb9052c" />
 
 
-
+----
 
 ***4- Making Ping Flood Rules:****
 
