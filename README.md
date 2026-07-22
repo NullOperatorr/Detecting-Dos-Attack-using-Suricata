@@ -122,7 +122,7 @@ and go down until you find the rule-files then paste the path of your rule and s
 
 3- Now update and test your rule and verify that there is no error:
 
-bash```
+```bash
 sudo suricata -T -c /etc/suricata/suricata.yaml -i eth0
 Note that: the (-T) means testing.
 ```
